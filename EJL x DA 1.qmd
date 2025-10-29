@@ -1,0 +1,17 @@
+---
+title: "EJL x DA"
+format: html
+editor: visual
+---
+
+```{r}
+# install.packages('modelsummary')
+install.packages("here")
+install.packages("readr")
+library(readr)
+library(here)
+library(modelsummary)
+
+1 + 1 
+
+```
